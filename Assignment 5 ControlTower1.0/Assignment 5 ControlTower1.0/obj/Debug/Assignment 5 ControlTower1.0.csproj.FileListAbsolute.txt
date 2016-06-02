@@ -1,0 +1,11 @@
+C:\Users\J_dog\Documents\Visual Studio 2012\Projects\Assignment 5\Assignment 5 ControlTower1.0\Assignment 5 ControlTower1.0\bin\Debug\Assignment 5 ControlTower1.0.exe.config
+C:\Users\J_dog\Documents\Visual Studio 2012\Projects\Assignment 5\Assignment 5 ControlTower1.0\Assignment 5 ControlTower1.0\bin\Debug\Assignment 5 ControlTower1.0.exe
+C:\Users\J_dog\Documents\Visual Studio 2012\Projects\Assignment 5\Assignment 5 ControlTower1.0\Assignment 5 ControlTower1.0\bin\Debug\Assignment 5 ControlTower1.0.pdb
+C:\Users\J_dog\Documents\Visual Studio 2012\Projects\Assignment 5\Assignment 5 ControlTower1.0\Assignment 5 ControlTower1.0\obj\Debug\Assignment_5_ControlTower1._0.MainForm.resources
+C:\Users\J_dog\Documents\Visual Studio 2012\Projects\Assignment 5\Assignment 5 ControlTower1.0\Assignment 5 ControlTower1.0\obj\Debug\Assignment_5_ControlTower1._0.Properties.Resources.resources
+C:\Users\J_dog\Documents\Visual Studio 2012\Projects\Assignment 5\Assignment 5 ControlTower1.0\Assignment 5 ControlTower1.0\obj\Debug\Assignment 5 ControlTower1.0.csproj.GenerateResource.Cache
+C:\Users\J_dog\Documents\Visual Studio 2012\Projects\Assignment 5\Assignment 5 ControlTower1.0\Assignment 5 ControlTower1.0\obj\Debug\Assignment 5 ControlTower1.0.exe
+C:\Users\J_dog\Documents\Visual Studio 2012\Projects\Assignment 5\Assignment 5 ControlTower1.0\Assignment 5 ControlTower1.0\obj\Debug\Assignment 5 ControlTower1.0.pdb
+C:\Users\J_dog\Documents\Visual Studio 2012\Projects\Assignment 5\Assignment 5 ControlTower1.0\Assignment 5 ControlTower1.0\obj\Debug\Assignment_5_ControlTower1._0.Plane.resources
+C:\Users\J_dog\Documents\Visual Studio 2012\Projects\Assignment 5\Assignment 5 ControlTower1.0\Assignment 5 ControlTower1.0\obj\Debug\Assignment_5_ControlTower1._0.PlaneTypes.resources
+C:\Users\J_dog\Documents\Visual Studio 2012\Projects\Assignment 5\Assignment 5 ControlTower1.0\Assignment 5 ControlTower1.0\obj\Debug\Assignment 5 ControlTower1.0.csprojResolveAssemblyReference.cache
